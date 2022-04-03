@@ -10,4 +10,5 @@ README.md
 - Scott Young - syoung02 
 
 **Statistical models to predict energy demand and price**
+
 All code written in python using Jupyter notebooks. Ensure libraries are installed to successfully run code. 
